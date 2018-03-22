@@ -1,0 +1,95 @@
+.Link
+{
+	width: 100%;
+	background-color: #00FFFF;
+	font-size: 20px;
+}
+
+.Link li a{
+	display: block;
+	text-align: left;
+	padding: 10px;
+	text-decoration: none;
+}
+
+.Me
+{
+	background-color: #1E90FF;
+	font-family:Arial;
+	text-align: center;
+}
+
+.Me img
+{
+	width: 300px;
+}
+
+.Me h1
+{
+	font-size: 50px;
+}
+
+table
+{
+	border-collapse: collapse;
+	width: 100%;
+}
+img
+{
+	width: 200px;
+}
+th, td
+{
+	font-family:Arial;
+	font-size: 20px;
+	padding: 10px;
+	color: black;
+	text-align: center;
+	border: transparent;
+}
+
+.Mancity
+{
+	text-align: center;
+	color: #00BFFF;
+	font-size: 40px;
+}
+
+.Carabao img
+{
+	width: 100%;
+}
+
+.Emblem img
+{
+	width: 600px;
+}
+
+.Emblem iframe
+{
+	width: 854px;
+	height: 480px;
+}
+
+.Name, .Founded, .Ground, .Manager, .Captain
+{
+	font-family:Viner Hand ITC;
+	font-size: 20px;
+}
+
+.Name img, .Founded img, .Ground img, .Manager img, .Captain img
+{
+	width: 500px;
+}
+
+.Resume
+{
+	text-align: center;
+	font-family: Arial;
+}
+
+.Education, .Experience, .Skills, .Activities
+{
+	font-family: Arial;
+	padding: 5px;
+}
